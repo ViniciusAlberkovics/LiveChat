@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /_build/
 /cover/
 /deps/
@@ -9,10 +10,21 @@ live_chat-*.tar
 npm-debug.log
 /assets/node_modules/
 /priv/static/
+=======
+>>>>>>> 50bd21404ea66dc2f5654e07f89912df2fb0612e
 /_build
 /cover
 /deps
 /doc
+<<<<<<< HEAD
 *.beam
 /config/*.secret.exs
 .elixir_ls/
+=======
+/.fetch
+erl_crash.dump
+*.ez
+*.beam
+/config/*.secret.exs
+.elixir_ls/
+>>>>>>> 50bd21404ea66dc2f5654e07f89912df2fb0612e
